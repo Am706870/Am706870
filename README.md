@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Am706870
-- 👀 I’m interested in Python sql c++
+- 👀 I’m interested in Python,sql,c++
 - 🌱 I’m currently learning Python..
 - 💞️ I’m looking to collaborate on Python development projects
 - 📫 How to reach me am706870@gmail.com
